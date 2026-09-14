@@ -7,6 +7,7 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Vishwav24/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 ## Math
 |  |
 | ------- |
@@ -20,4 +21,16 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vishwav24/DSA/tree/master/0836-rectangle-overlap) |
+## Array
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
+## Hash Table
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
