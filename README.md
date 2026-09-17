@@ -8,6 +8,7 @@ DSA Leetcode Daily
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Vishwav24/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
+| [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +31,7 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
+| [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 ## Trie
 |  |
 | ------- |
@@ -41,5 +43,6 @@ DSA Leetcode Daily
 ## Sorting
 |  |
 | ------- |
+| [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 <!---LeetCode Topics End-->
