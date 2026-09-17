@@ -52,4 +52,8 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+## Database
+|  |
+| ------- |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishwav24/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 <!---LeetCode Topics End-->
