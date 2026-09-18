@@ -7,6 +7,7 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Vishwav24/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vishwav24/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -43,6 +44,7 @@ DSA Leetcode Daily
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Vishwav24/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sorting
