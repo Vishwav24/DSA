@@ -11,6 +11,7 @@ DSA Leetcode Daily
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Vishwav24/DSA/tree/master/2785-sort-vowels-in-a-string) |
+| [2810-faulty-keyboard](https://github.com/Vishwav24/DSA/tree/master/2810-faulty-keyboard) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Math
 |  |
@@ -65,5 +66,6 @@ DSA Leetcode Daily
 ## Simulation
 |  |
 | ------- |
+| [2810-faulty-keyboard](https://github.com/Vishwav24/DSA/tree/master/2810-faulty-keyboard) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 <!---LeetCode Topics End-->
