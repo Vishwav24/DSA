@@ -14,6 +14,7 @@ DSA Leetcode Daily
 | [2785-sort-vowels-in-a-string](https://github.com/Vishwav24/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Vishwav24/DSA/tree/master/2810-faulty-keyboard) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vishwav24/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -51,6 +52,7 @@ DSA Leetcode Daily
 | [0917-reverse-only-letters](https://github.com/Vishwav24/DSA/tree/master/0917-reverse-only-letters) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vishwav24/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +72,5 @@ DSA Leetcode Daily
 | ------- |
 | [2810-faulty-keyboard](https://github.com/Vishwav24/DSA/tree/master/2810-faulty-keyboard) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vishwav24/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 <!---LeetCode Topics End-->
