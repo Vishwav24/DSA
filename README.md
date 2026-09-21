@@ -6,6 +6,7 @@ DSA Leetcode Daily
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vishwav24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vishwav24/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishwav24/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
@@ -39,6 +40,7 @@ DSA Leetcode Daily
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vishwav24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -75,4 +77,8 @@ DSA Leetcode Daily
 | [3498-reverse-degree-of-a-string](https://github.com/Vishwav24/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Vishwav24/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vishwav24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
