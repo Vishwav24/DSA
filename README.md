@@ -21,6 +21,7 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vishwav24/DSA/tree/master/0836-rectangle-overlap) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishwav24/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/Vishwav24/DSA/tree/master/1922-count-good-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Recursion
@@ -87,6 +88,7 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vishwav24/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Vishwav24/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
