@@ -35,6 +35,7 @@ DSA Leetcode Daily
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Vishwav24/DSA/tree/master/0053-maximum-subarray) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -86,4 +87,12 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Vishwav24/DSA/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vishwav24/DSA/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vishwav24/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
