@@ -38,6 +38,7 @@ DSA Leetcode Daily
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vishwav24/DSA/tree/master/0053-maximum-subarray) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
+| [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -76,6 +77,7 @@ DSA Leetcode Daily
 ## Simulation
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
 | [2810-faulty-keyboard](https://github.com/Vishwav24/DSA/tree/master/2810-faulty-keyboard) |
 | [3498-reverse-degree-of-a-string](https://github.com/Vishwav24/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Vishwav24/DSA/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -97,4 +99,8 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vishwav24/DSA/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
