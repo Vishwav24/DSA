@@ -37,6 +37,7 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vishwav24/DSA/tree/master/0053-maximum-subarray) |
+| [0414-third-maximum-number](https://github.com/Vishwav24/DSA/tree/master/0414-third-maximum-number) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -63,6 +64,7 @@ DSA Leetcode Daily
 ## Sorting
 |  |
 | ------- |
+| [0414-third-maximum-number](https://github.com/Vishwav24/DSA/tree/master/0414-third-maximum-number) |
 | [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Vishwav24/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
