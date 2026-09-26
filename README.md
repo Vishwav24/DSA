@@ -13,6 +13,7 @@ DSA Leetcode Daily
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/Vishwav24/DSA/tree/master/0917-reverse-only-letters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishwav24/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2785-sort-vowels-in-a-string](https://github.com/Vishwav24/DSA/tree/master/2785-sort-vowels-in-a-string) |
 | [2810-faulty-keyboard](https://github.com/Vishwav24/DSA/tree/master/2810-faulty-keyboard) |
 | [3163-string-compression-iii](https://github.com/Vishwav24/DSA/tree/master/3163-string-compression-iii) |
@@ -42,6 +43,7 @@ DSA Leetcode Daily
 | [0414-third-maximum-number](https://github.com/Vishwav24/DSA/tree/master/0414-third-maximum-number) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishwav24/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
@@ -50,6 +52,7 @@ DSA Leetcode Daily
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishwav24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
 | [0791-custom-sort-string](https://github.com/Vishwav24/DSA/tree/master/0791-custom-sort-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishwav24/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Trie
 |  |
