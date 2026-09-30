@@ -45,6 +45,7 @@ DSA Leetcode Daily
 | [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vishwav24/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Vishwav24/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vishwav24/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vishwav24/DSA/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -112,4 +113,8 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
+## Greedy
+|  |
+| ------- |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vishwav24/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
