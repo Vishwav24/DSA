@@ -82,6 +82,7 @@ DSA Leetcode Daily
 |  |
 | ------- |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Vishwav24/DSA/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1075-project-employees-i](https://github.com/Vishwav24/DSA/tree/master/1075-project-employees-i) |
 ## Simulation
 |  |
 | ------- |
