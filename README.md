@@ -8,6 +8,7 @@ DSA Leetcode Daily
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vishwav24/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Vishwav24/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Vishwav24/DSA/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vishwav24/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/Vishwav24/DSA/tree/master/0443-string-compression) |
 | [0648-replace-words](https://github.com/Vishwav24/DSA/tree/master/0648-replace-words) |
@@ -112,9 +113,14 @@ DSA Leetcode Daily
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Vishwav24/DSA/tree/master/0020-valid-parentheses) |
 | [0946-validate-stack-sequences](https://github.com/Vishwav24/DSA/tree/master/0946-validate-stack-sequences) |
 ## Greedy
 |  |
 | ------- |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Vishwav24/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vishwav24/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
